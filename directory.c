@@ -1,3 +1,8 @@
+// Calvin Vuong
+// MKS65 pd10
+// Work 5
+// 11-02-2016
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <dirent.h>
